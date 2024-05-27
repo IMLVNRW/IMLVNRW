@@ -13,3 +13,10 @@ Currently, there are two of us in the Github working group.
 - Programming languages: C/C++, ASM, PHP, VB6, CSS/HTML, DarkBasic, Python3
 - Hobbies: baking, cooking, drawing, hiking, sleeping
 - website: padersophia.wordpress.com 
+
+# 👇  Current project 
+Open source chat and consulting platform for self-hosting, in PHP. Messages are stored encrypted with gpg in the DB  Open source chat and consulting platform for self-hosting, in PHP. Messages are stored encrypted with gpg in the DB. A hybrid CMS, website and rest API smartphone apps. 
+
+The second project is to change the software used so that we can log in with the VereinsID (OAUTH). 
+
+# hhh
