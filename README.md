@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @IMLVNRW
-- 👀 My Hobbies: Programming, drawing and cooking 
-- 🌱 I am intersex and arrange myself voluntarily in the queer sector. 
-- 💞️ I’m looking to Germany Bielefeld
-- 📫 You can reach me via Facebook or by email. 
-- 😄 Pronouns: dey/deren 
-- ⚡ Fun fact: I like to sleep, but I program late into the night...... 
+# 👋  Hi there
+This account is from the association 'Intergeschlechtlich Menschen Landesverband NRW eV' from Germany. For the most part, we use a lot of open source software. 
+Often we have to extend, adapt software or write some things ourselves that we have decided to make this available to you. 
 
-<!---
-IMLVNRW/IMLVNRW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Users 
+I'm a software developer based in Bielefeld, Germany. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like Digital painting and coding. Y
+You can also check out my website padersophia.wordpress.com for my blog and more.
